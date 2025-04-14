@@ -5,15 +5,12 @@
 - Zack Rocha Santos
 
 ## Objetivo
-Desenvolver colaborativamente um algoritmo em Portugol de 
+Desenvolver colaborativamente um algoritmo em Portugol de soma e subtração de 2 numeros.
 
 ## Etapas realizadas por cada membro
 
-### Fulano da Silva 
-- Como criou?
-- Como Configurou o Git? não deixe exposto sua chave.
-- Criou o arquivo `algoritmo.por` com a estrutura inicial:
-- fez o que? depois?...
+Arthur Nogueira Correia de Mello
+- Criei o repositório vazio pelo gitweb, adicionei o zack como colaborador e clonei o repositório vazio via ssh, onde adicionei os arquivos readme.md e algoritmo.por, depois realizei o comando git add ., git commit -m "inicio" e depois o git push para adicionar os arquivos novos
 
 ### Ciclana Souza
 - Como Configurou o Git? não deixe exposto sua chave.
